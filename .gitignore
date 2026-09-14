@@ -1,0 +1,5 @@
+.env
+HOMEWORK/.env
+.databrickscfg
+**/.venv/
+**/__pycache__/
